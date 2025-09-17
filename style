@@ -1,1 +1,4 @@
-
+p {
+font-size: 34 pkt,
+text-color: black,
+}
